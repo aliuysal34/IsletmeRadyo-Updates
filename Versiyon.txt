@@ -1,3 +1,4 @@
-1.0.4
-Simdi guncelle ile ilk kurulum denemesi
-Kurulum betigi: yeniden adlandirilmis EXE, geri donuste bekci, ozel karakterli klasor
+1.0.5
+Saglik denetimi: servis ilk turu hatasiz bitmeden kurulum basarili sayilmaz
+Kurulum betigi artik yeni surumle imzali geliyor
+Elektrik kesintisine karsi kayitlar diske zorla yaziliyor
