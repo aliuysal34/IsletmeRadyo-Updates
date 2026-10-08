@@ -1,4 +1,5 @@
-1.0.1
-Guncelleme sonrasi acilis denetimi duzeltildi
-Lisans susturmasi harici calar ve oynat tusunu da kapsiyor
-Aramayi kapat sonuclari temizliyor
+1.0.2
+Kurulum: acilis denetimi saglamlastirildi, basarisizlikta ayarlar da geri aliniyor
+Windows Akilli Uygulama Denetimi engeli taniniyor
+Panelde Simdi guncelle dugmesi
+Lisans susturmasi tek kapidan; eski Windows icin sertifika destegi
