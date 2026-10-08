@@ -1,4 +1,2 @@
-1.0.5
-Saglik denetimi: servis ilk turu hatasiz bitmeden kurulum basarili sayilmaz
-Kurulum betigi artik yeni surumle imzali geliyor
-Elektrik kesintisine karsi kayitlar diske zorla yaziliyor
+1.0.6
+Otomatik baslatma ve bekci program tarafindan kuruluyor (UPS'te de calisir); uyku ve USB askiya alma engeli; otomatik Cuma molasi ve sela; panel guvenligi
