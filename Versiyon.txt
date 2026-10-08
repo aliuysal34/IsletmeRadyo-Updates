@@ -1,5 +1,3 @@
-1.0.2
-Kurulum: acilis denetimi saglamlastirildi, basarisizlikta ayarlar da geri aliniyor
-Windows Akilli Uygulama Denetimi engeli taniniyor
-Panelde Simdi guncelle dugmesi
-Lisans susturmasi tek kapidan; eski Windows icin sertifika destegi
+1.0.4
+Simdi guncelle ile ilk kurulum denemesi
+Kurulum betigi: yeniden adlandirilmis EXE, geri donuste bekci, ozel karakterli klasor
