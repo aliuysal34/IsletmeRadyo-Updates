@@ -1,2 +1,4 @@
-1.0.0
-İlk sürüm: lisans ve otomatik güncelleme
+1.0.1
+Guncelleme sonrasi acilis denetimi duzeltildi
+Lisans susturmasi harici calar ve oynat tusunu da kapsiyor
+Aramayi kapat sonuclari temizliyor
