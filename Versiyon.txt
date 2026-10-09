@@ -1,2 +1,2 @@
-1.0.6
-Otomatik baslatma ve bekci program tarafindan kuruluyor (UPS'te de calisir); uyku ve USB askiya alma engeli; otomatik Cuma molasi ve sela; panel guvenligi
+1.0.7
+Panel guvenligi guclendirildi; program arizalarda kendini toparliyor (role, sayfa donmasi, uyari penceresi); hicbir bolge dinlemiyorsa muzik duraklar; ses cikisi degisince uyari; guncelleme hatasi panelde gorunur
