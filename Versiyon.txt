@@ -1,2 +1,2 @@
-1.0.7
-Panel guvenligi guclendirildi; program arizalarda kendini toparliyor (role, sayfa donmasi, uyari penceresi); hicbir bolge dinlemiyorsa muzik duraklar; ses cikisi degisince uyari; guncelleme hatasi panelde gorunur
+1.0.8
+Arsivden calarken ekranda arsiv gorunur; internet kesintisinde git-gel freni; guvenlik ve kararlilik duzeltmeleri (tarama raporu); ezan/sela ses seviyesi ayari; bakim penceresi; Kendi Listem temizligi
