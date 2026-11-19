@@ -1,2 +1,2 @@
-1.0.8
-Arsivden calarken ekranda arsiv gorunur; internet kesintisinde git-gel freni; guvenlik ve kararlilik duzeltmeleri (tarama raporu); ezan/sela ses seviyesi ayari; bakim penceresi; Kendi Listem temizligi
+1.0.9
+1.0.9: klasik (Orka tarzi) gorunum secenegi ve tek Kaydet; kapali videolar icin acik surum arama; oynatici ekranindan duraklatma artik kalici; gece vardiyasi mola cizelgesi; lisans saat ileri yalniz uyari; ezan sesi gec cozulse de okunur; guncelleme geri alma zinciri ve guvenlik duzeltmeleri
